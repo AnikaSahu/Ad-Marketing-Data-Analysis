@@ -1,4 +1,4 @@
-# 📊 Global Ads Performance Dashboard — Power BI
+# 📊 Global Ads Performance Dashboard - Power BI
 
 A **2-page interactive Power BI dashboard** built using **Excel** and **Power BI** to analyze global digital advertising performance across platforms, industries, and campaign types.
 
@@ -24,27 +24,27 @@ This dashboard provides a comprehensive view of ad performance metrics across **
 
 ## 📋 Dashboard Pages
 
-### Page 1 — Performance Overview
-- *Avg CTR by Campaign Type* — Search leads at **3.94%**, followed by Shopping (**3.85%**), Display (**3.81%**), Video (**3.76%**)
-- *Total Conversions by Campaign Type* — Search dominates with **91K** conversions
-- *Avg CPA by Platform* — TikTok Ads most expensive at **$64.06**, Google Ads most efficient at **$29.20**
-- *Total ROAS by Platform* — TikTok Ads tops at **9.5x**, Meta Ads at **6.9x**, Google Ads at **4.1x**
-- *Avg ROAS by Industry* — **EdTech** leads with **6.8x** ROAS
-- *Total Revenue by Platform* — Google Ads generates highest revenue at **$22M**
+### Page 1 - Performance Overview
+- *Avg CTR by Campaign Type* - Search leads at **3.94%**, followed by Shopping (**3.85%**), Display (**3.81%**), Video (**3.76%**)
+- *Total Conversions by Campaign Type* - Search dominates with **91K** conversions
+- *Avg CPA by Platform* - TikTok Ads most expensive at **$64.06**, Google Ads most efficient at **$29.20**
+- *Total ROAS by Platform* - TikTok Ads tops at **9.5x**, Meta Ads at **6.9x**, Google Ads at **4.1x**
+- *Avg ROAS by Industry* - **EdTech** leads with **6.8x** ROAS
+- *Total Revenue by Platform* - Google Ads generates highest revenue at **$22M**
 
-### Page 2 — Trends & Deep Dives
-- *Total Clicks & Impressions by Month* — Clicks range from **~480K to 700K**; Impressions from **12M to 18M**
-- *Total Revenue by Month* — Peak revenue in **May ($5.1M)** and **December ($5.2M)**; trough in **July ($3.7M)**
-- *Total Revenue by Country* — USA leads at **$1.73M spend** with **5.8x ROAS**; UAE highest ROAS at **6.9x**
-- *Revenue by Industry* — EdTech Avg CPA **$48.04**, Healthcare **$47.56**
+### Page 2 - Trends & Deep Dives
+- *Total Clicks & Impressions by Month* - Clicks range from **~480K to 700K**; Impressions from **12M to 18M**
+- *Total Revenue by Month* - Peak revenue in **May ($5.1M)** and **December ($5.2M)**; trough in **July ($3.7M)**
+- *Total Revenue by Country* - USA leads at **$1.73M spend** with **5.8x ROAS**; UAE highest ROAS at **6.9x**
+- *Revenue by Industry* - EdTech Avg CPA **$48.04**, Healthcare **$47.56**
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-* **Microsoft Excel** — Data source & preprocessing
-* **Microsoft Power BI** — Dashboard design, DAX measures, interactive visuals
-* **Bing Maps** — Geo-visualization for country-level revenue
+* **Microsoft Excel** - Data source & preprocessing
+* **Microsoft Power BI** - Dashboard design, DAX measures, interactive visuals
+* **Bing Maps** - Geo-visualization for country-level revenue
 
 ---
 
@@ -64,11 +64,13 @@ This dashboard provides a comprehensive view of ad performance metrics across **
 * **Search campaigns** drive the most conversions (**91K**) but **Display** has the highest ROAS (**7.0x**)
 * **TikTok Ads** deliver the best overall ROAS (**9.5x**) despite highest CPA (**$64.06**)
 * **EdTech** is the highest-performing industry with **6.8x ROAS**
-* Revenue shows strong **seasonality** — dips in summer (July: **$3.7M**) and peaks end-of-year (December: **$5.2M**)
+* Revenue shows strong **seasonality** - dips in summer (July: **$3.7M**) and peaks end-of-year (December: **$5.2M**)
 * **UAE** delivers the strongest country-level ROAS at **6.9x**
 
 ---
 
 ## 📬 Contact
+
+**Anika Sahu | Data Analyst**
 
 Feel free to ⭐ this repo if you found it useful, or raise an issue for feedback!
