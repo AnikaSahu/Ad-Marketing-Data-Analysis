@@ -6,7 +6,7 @@ A **2-page interactive Power BI dashboard** built using **Excel** and **Power BI
 
 ## 🚀 Project Overview
 
-This dashboard provides a comprehensive view of ad performance metrics across **3 platforms** (Google Ads, Meta Ads, TikTok Ads), **5 industries**, **4 campaign types**, and **6 countries** — enabling data-driven marketing decisions.
+This dashboard provides a comprehensive view of ad performance metrics across **3 platforms** (Google Ads, Meta Ads, TikTok Ads), **5 industries**, **4 campaign types**, and **6 countries** - enabling data-driven marketing decisions.
 
 ---
 
